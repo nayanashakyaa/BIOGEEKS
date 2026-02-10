@@ -8,7 +8,7 @@ BICP 201 project for Data Structures & Algorithm [KU]
 
 A Python-based graphical tool designed to demonstrate the **Knuth–Morris–Pratt (KMP)** string-matching algorithm specifically for bioinformatics. This project visualizes character-by-character comparisons and the efficiency of the Longest Prefix Suffix (LPS) array in real-time using DNA sequences.
 
-## 📌 Project Overview
+## 1. Project Overview
 
 The KMP algorithm optimizes string searching by avoiding redundant comparisons. This visualizer provides an intuitive look at how the algorithm "skips" through the DNA sequence based on pre-processed pattern data.
 
@@ -20,7 +20,7 @@ The KMP algorithm optimizes string searching by avoiding redundant comparisons. 
 * **Results Export:** Automatically saves biological records (match positions and metadata) to a `kmp_dna_results.txt` file.
 * **Dynamic Input:** Support for user-defined DNA sequences and search motifs via a Tkinter GUI.
 
-## 🧠 Algorithm & Complexity
+## 2. Algorithm & Complexity
 
 The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an auxiliary **LPS (Longest Prefix Suffix)** array to determine the next shift.
 
@@ -34,7 +34,7 @@ The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an aux
 
 ---
 
-## 🛠️ Technologies Used
+## 3. Technologies Used
 
 * **Python:** Core Logic
 * **Tkinter:** GUI for user input and error handling
@@ -42,7 +42,7 @@ The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an aux
 
 ---
 
-## 🖥️ How It Works
+## 4. How It Works
 
 1. **Input:** Enter the main **DNA Sequence** and the **Target Motif** in the GUI.
 2. **Preprocessing:** The program calculates the LPS array to handle pattern shifts efficiently.
@@ -55,7 +55,7 @@ The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an aux
 
 ---
 
-## 📚 Educational Context
+## 5. Educational Context
 
 This project was developed for **Data Structures & Algorithms (DSA)** study, focusing on:
 
@@ -66,6 +66,4 @@ This project was developed for **Data Structures & Algorithms (DSA)** study, foc
 **Submitted by:** Prapti Poudel & Nayana Shakya
 
 ---
-
-**Would you like me to help you implement the custom Linked List or Queue for your match results to fulfill the DSA data structures requirement mentioned in your original text?**
 
