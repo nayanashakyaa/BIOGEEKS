@@ -1,6 +1,6 @@
 # BIOGEEKS
 
-BICP 201 project for Data Structures & Algorithm [KU]
+**Implementation of the Knuth-Morris-Pratt (KMP) Algorithm for Automated DNA Motif Recognition and Visual Analytics**
 
 ---
 
