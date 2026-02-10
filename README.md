@@ -26,11 +26,11 @@ The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an aux
 
 | Metric | Complexity |
 | --- | --- |
-| **Time Complexity** | *$O(n+m)$* |
-| **Space Complexity** | *$O(m)$*  |
+| **Time Complexity** | *O(n+m)* |
+| **Space Complexity** | *O(m)*  |
 | **Visualization Delay** | 500ms (Step-by-step) |
 
-*Note: *$n$* represents the length of the DNA sequence and  represents the length of the pattern/motif.*
+*Note: *n* represents the length of the DNA sequence and  represents the length of the pattern/motif.*
 
 ---
 
