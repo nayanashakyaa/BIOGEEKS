@@ -63,7 +63,7 @@ This project was developed for **Data Structures & Algorithms (DSA)** study, foc
 * Practical application of auxiliary arrays (LPS).
 * Data visualization and GUI development for algorithm demonstration.
 
-**Submitted by:** BIOGEEKS- Prapti Poudel & Nayana Shakya 
+**Submitted by:** BIOGEEKS- Nayana Shakya & Prapti Poudel 
 
 ---
 
