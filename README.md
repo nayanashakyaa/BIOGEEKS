@@ -26,11 +26,11 @@ The core of this tool is the Knuth–Morris–Pratt logic, which utilizes an aux
 
 | Metric | Complexity |
 | --- | --- |
-| **Time Complexity** |  |
-| **Space Complexity** |  |
+| **Time Complexity** | *$O(n+m)$* |
+| **Space Complexity** | *$O(m)$*  |
 | **Visualization Delay** | 500ms (Step-by-step) |
 
-*Note:  represents the length of the DNA sequence and  represents the length of the pattern/motif.*
+*Note: *$n$* represents the length of the DNA sequence and  represents the length of the pattern/motif.*
 
 ---
 
@@ -63,7 +63,7 @@ This project was developed for **Data Structures & Algorithms (DSA)** study, foc
 * Practical application of auxiliary arrays (LPS).
 * Data visualization and GUI development for algorithm demonstration.
 
-**Submitted by:** Prapti Poudel & Nayana Shakya
+**Submitted by:** BIOGEEKS- Prapti Poudel & Nayana Shakya 
 
 ---
 
